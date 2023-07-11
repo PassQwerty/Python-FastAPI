@@ -1,0 +1,2 @@
+# https://docs.pydantic.dev/latest/usage/types/
+создание валидации с помощью pydantic при отправки данных

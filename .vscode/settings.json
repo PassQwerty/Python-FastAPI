@@ -1,0 +1,8 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.mouseWheelZoom": true
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": ["fastapi"]
+}
